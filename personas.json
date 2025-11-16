@@ -1,0 +1,267 @@
+{
+    "Alice": {
+        "description": "Curious engineer exploring AI simulations.",
+        "traits": ["curious", "analytical", "friendly"],
+        "demographics": {"age_group": "25-34", "profession": "Engineer"},
+        "behavior": "Explores features methodically, provides detailed feedback."
+    },
+    "Bob": {
+        "description": "Skeptical philosopher interested in ethics.",
+        "traits": ["thoughtful", "skeptical", "empathetic"],
+        "demographics": {"age_group": "35-44", "profession": "Philosopher"},
+        "behavior": "Questions app design and suggests improvements."
+    }
+   {
+  "Student A": {
+    "description": "College student testing a productivity app.",
+    "traits": ["busy", "tech-savvy", "ambitious"],
+    "demographics": {"age_group": "18-25", "profession": "Student"},
+    "behavior": "Checks app frequently, gives concise feedback"
+  },
+  "Designer B": {
+    "description": "Creative professional exploring workflow tools.",
+    "traits": ["visual", "experimental", "detail-oriented"],
+    "demographics": {"age_group": "25-35", "profession": "Designer"},
+    "behavior": "Provides detailed design-oriented suggestions"
+  },
+  "Manager C": {
+    "description": "Team manager evaluating efficiency features.",
+    "traits": ["organized", "results-driven", "analytical"],
+    "demographics": {"age_group": "30-45", "profession": "Manager"},
+    "behavior": "Focuses on productivity insights and team workflow"
+  },
+  "Engineer D": {
+    "description": "Software engineer testing technical integrations.",
+    "traits": ["logical", "problem-solving", "curious"],
+    "demographics": {"age_group": "25-35", "profession": "Engineer"},
+    "behavior": "Experiments with advanced features, reports bugs"
+  },
+  "Entrepreneur E": {
+    "description": "Startup founder exploring app for business planning.",
+    "traits": ["innovative", "risk-taker", "visionary"],
+    "demographics": {"age_group": "28-40", "profession": "Entrepreneur"},
+    "behavior": "Analyzes strategic value, suggests features for scalability"
+  },
+  "Teacher F": {
+    "description": "High school teacher using productivity tools for lessons.",
+    "traits": ["patient", "structured", "empathetic"],
+    "demographics": {"age_group": "30-50", "profession": "Teacher"},
+    "behavior": "Evaluates ease-of-use and classroom application"
+  },
+  "Student G": {
+    "description": "Graduate student researching workflow tools.",
+    "traits": ["methodical", "curious", "dedicated"],
+    "demographics": {"age_group": "22-28", "profession": "Student"},
+    "behavior": "Provides research-based feedback on usability"
+  },
+  "Designer H": {
+    "description": "UX designer testing user experience features.",
+    "traits": ["creative", "empathetic", "detail-oriented"],
+    "demographics": {"age_group": "24-35", "profession": "Designer"},
+    "behavior": "Gives design-focused feedback and interface suggestions"
+  },
+  "Manager I": {
+    "description": "Project manager analyzing team collaboration tools.",
+    "traits": ["organized", "decisive", "practical"],
+    "demographics": {"age_group": "30-45", "profession": "Manager"},
+    "behavior": "Observes task flow, notes bottlenecks"
+  },
+  "Engineer J": {
+    "description": "DevOps engineer testing app integrations.",
+    "traits": ["systematic", "analytical", "tech-savvy"],
+    "demographics": {"age_group": "27-38", "profession": "Engineer"},
+    "behavior": "Focuses on performance, reliability, and bugs"
+  },
+  "Entrepreneur K": {
+    "description": "Business owner evaluating productivity for small team.",
+    "traits": ["innovative", "decisive", "pragmatic"],
+    "demographics": {"age_group": "30-45", "profession": "Entrepreneur"},
+    "behavior": "Assesses scalability and ROI of app features"
+  },
+  "Teacher L": {
+    "description": "University professor using app for course management.",
+    "traits": ["knowledgeable", "structured", "thoughtful"],
+    "demographics": {"age_group": "35-60", "profession": "Teacher"},
+    "behavior": "Provides academic and structured feedback"
+  },
+  "Student M": {
+    "description": "High school student experimenting with study tools.",
+    "traits": ["curious", "tech-savvy", "engaged"],
+    "demographics": {"age_group": "15-18", "profession": "Student"},
+    "behavior": "Tests app frequently, gives quick feedback"
+  },
+  "Designer N": {
+    "description": "Graphic designer exploring collaboration features.",
+    "traits": ["creative", "meticulous", "collaborative"],
+    "demographics": {"age_group": "25-35", "profession": "Designer"},
+    "behavior": "Focuses on visual workflow and integration"
+  },
+  "Manager O": {
+    "description": "Operations manager reviewing app for efficiency.",
+    "traits": ["organized", "analytical", "strategic"],
+    "demographics": {"age_group": "32-50", "profession": "Manager"},
+    "behavior": "Evaluates operational impact, suggests optimization"
+  },
+  "Engineer P": {
+    "description": "AI engineer testing app for automation potential.",
+    "traits": ["innovative", "logical", "curious"],
+    "demographics": {"age_group": "25-40", "profession": "Engineer"},
+    "behavior": "Experiments with automations and integrations"
+  },
+  "Entrepreneur Q": {
+    "description": "Tech startup founder exploring MVP testing.",
+    "traits": ["risk-taker", "visionary", "innovative"],
+    "demographics": {"age_group": "28-42", "profession": "Entrepreneur"},
+    "behavior": "Evaluates minimum viable features and scalability"
+  },
+  "Teacher R": {
+    "description": "Elementary teacher testing app for classroom tasks.",
+    "traits": ["patient", "creative", "empathetic"],
+    "demographics": {"age_group": "28-50", "profession": "Teacher"},
+    "behavior": "Assesses child-friendliness and usability"
+  },
+  "Student S": {
+    "description": "Vocational student testing app for practical projects.",
+    "traits": ["hands-on", "curious", "dedicated"],
+    "demographics": {"age_group": "18-24", "profession": "Student"},
+    "behavior": "Focuses on task-oriented functionality"
+  },
+  "Designer T": {
+    "description": "Interior designer exploring collaborative design workflows.",
+    "traits": ["creative", "detail-oriented", "collaborative"],
+    "demographics": {"age_group": "26-40", "profession": "Designer"},
+    "behavior": "Gives detailed creative and visual feedback"
+  },
+  "Manager U": {
+    "description": "Team lead testing cross-functional collaboration features.",
+    "traits": ["strategic", "organized", "people-focused"],
+    "demographics": {"age_group": "30-45", "profession": "Manager"},
+    "behavior": "Notes team efficiency and communication issues"
+  },
+  "Engineer V": {
+    "description": "Backend engineer testing integrations and API workflows.",
+    "traits": ["analytical", "problem-solving", "logical"],
+    "demographics": {"age_group": "25-35", "profession": "Engineer"},
+    "behavior": "Focuses on API, integrations, and bug reporting"
+  },
+  "Entrepreneur W": {
+    "description": "Freelance consultant exploring productivity tools.",
+    "traits": ["organized", "innovative", "pragmatic"],
+    "demographics": {"age_group": "28-45", "profession": "Entrepreneur"},
+    "behavior": "Looks at efficiency gains and client usability"
+  },
+  "Teacher X": {
+    "description": "Language teacher testing collaboration and lesson planning features.",
+    "traits": ["patient", "structured", "empathetic"],
+    "demographics": {"age_group": "30-55", "profession": "Teacher"},
+    "behavior": "Provides structured feedback for lesson planning"
+  },
+  "Student Y": {
+    "description": "High school student testing app for homework management.",
+    "traits": ["organized", "tech-savvy", "engaged"],
+    "demographics": {"age_group": "15-18", "profession": "Student"},
+    "behavior": "Gives frequent, short feedback"
+  },
+  "Designer Z": {
+    "description": "Fashion designer exploring workflow apps for creative projects.",
+    "traits": ["creative", "meticulous", "trend-aware"],
+    "demographics": {"age_group": "25-35", "profession": "Designer"},
+    "behavior": "Focuses on visual aesthetics and collaboration"
+  },
+  "Manager AA": {
+    "description": "Product manager analyzing feature adoption in teams.",
+    "traits": ["strategic", "analytical", "practical"],
+    "demographics": {"age_group": "28-45", "profession": "Manager"},
+    "behavior": "Evaluates team usage, adoption, and efficiency"
+  },
+  "Engineer BB": {
+    "description": "Frontend engineer testing UI and usability.",
+    "traits": ["creative", "technical", "detail-oriented"],
+    "demographics": {"age_group": "25-35", "profession": "Engineer"},
+    "behavior": "Focuses on UI/UX and bug identification"
+  },
+  "Entrepreneur CC": {
+    "description": "Small business owner exploring collaborative productivity apps.",
+    "traits": ["pragmatic", "innovative", "organized"],
+    "demographics": {"age_group": "30-50", "profession": "Entrepreneur"},
+    "behavior": "Evaluates ease-of-use and team efficiency"
+  },
+  "Teacher DD": {
+    "description": "College instructor testing project management features.",
+    "traits": ["structured", "analytical", "thoughtful"],
+    "demographics": {"age_group": "35-60", "profession": "Teacher"},
+    "behavior": "Focuses on academic use cases and task tracking"
+  },
+  "Student EE": {
+    "description": "Vocational trainee testing practical task management.",
+    "traits": ["hands-on", "focused", "curious"],
+    "demographics": {"age_group": "18-24", "profession": "Student"},
+    "behavior": "Prioritizes task completion and clarity"
+  },
+  "Designer FF": {
+    "description": "Architect exploring collaborative design apps.",
+    "traits": ["creative", "strategic", "detail-oriented"],
+    "demographics": {"age_group": "28-45", "profession": "Designer"},
+    "behavior": "Gives design-focused and collaborative feedback"
+  },
+  "Manager GG": {
+    "description": "Operations manager evaluating workflow optimization.",
+    "traits": ["analytical", "strategic", "practical"],
+    "demographics": {"age_group": "32-50", "profession": "Manager"},
+    "behavior": "Evaluates efficiency and team coordination"
+  },
+  "Engineer HH": {
+    "description": "Data engineer testing workflow for analysis pipelines.",
+    "traits": ["logical", "curious", "analytical"],
+    "demographics": {"age_group": "25-35", "profession": "Engineer"},
+    "behavior": "Focuses on data processing efficiency and accuracy"
+  },
+  "Entrepreneur II": {
+    "description": "Startup founder testing MVP productivity features.",
+    "traits": ["innovative", "risk-taker", "strategic"],
+    "demographics": {"age_group": "28-40", "profession": "Entrepreneur"},
+    "behavior": "Assesses rapid feature adoption and scalability"
+  },
+  "Teacher JJ": {
+    "description": "Middle school teacher testing assignment tracking tools.",
+    "traits": ["patient", "organized", "empathetic"],
+    "demographics": {"age_group": "28-50", "profession": "Teacher"},
+    "behavior": "Provides classroom-focused usability feedback"
+  },
+  "Student KK": {
+    "description": "College student testing study and project planning features.",
+    "traits": ["curious", "tech-savvy", "organized"],
+    "demographics": {"age_group": "18-25", "profession": "Student"},
+    "behavior": "Gives detailed insights on productivity and task tracking"
+  },
+  "Designer LL": {
+    "description": "UI/UX designer exploring collaboration and wireframing.",
+    "traits": ["creative", "empathetic", "detail-oriented"],
+    "demographics": {"age_group": "25-35", "profession": "Designer"},
+    "behavior": "Evaluates interface flow and usability"
+  },
+  "Manager MM": {
+    "description": "Project lead evaluating task management and team alignment.",
+    "traits": ["strategic", "organized", "analytical"],
+    "demographics": {"age_group": "30-45", "profession": "Manager"},
+    "behavior": "Assesses team efficiency and project milestones"
+  },
+  "Engineer NN": {
+    "description": "Machine learning engineer testing model integration features.",
+    "traits": ["technical", "curious", "analytical"],
+    "demographics": {"age_group": "25-35", "profession": "Engineer"},
+    "behavior": "Focuses on integrations and feature stability"
+  },
+  "Entrepreneur OO": {
+    "description": "Freelance consultant testing app for client workflow optimization.",
+    "traits": ["organized", "pragmatic", "innovative"],
+    "demographics": {"age_group": "28-45", "profession": "Entrepreneur"},
+    "behavior": "Provides feedback on real-world productivity improvements"
+  },
+  "Teacher PP": {
+    "description": "High school teacher using the app for grading and lesson plans.",
+    "traits": ["structured", "patient", "empathetic"],
+    "demographics": {"age_group": "30-55", "profession": "Teacher"},
+    "behavior": "Focuses on classroom management and student tracking"
+  }
+}

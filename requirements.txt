@@ -1,0 +1,5 @@
+tinytroupe
+python-dotenv
+streamlit
+rich
+pandas
